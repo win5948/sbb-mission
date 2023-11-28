@@ -1,5 +1,6 @@
-package com.ll.mission_sbb;
+package com.ll.mission_sbb.question;
 
+import com.ll.mission_sbb.answer.Answer;
 import jakarta.persistence.*;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.OneToMany;

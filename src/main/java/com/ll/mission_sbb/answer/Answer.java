@@ -1,5 +1,6 @@
-package com.ll.mission_sbb;
+package com.ll.mission_sbb.answer;
 
+import com.ll.mission_sbb.question.Question;
 import jakarta.persistence.*;
 import jakarta.persistence.ManyToOne;
 
